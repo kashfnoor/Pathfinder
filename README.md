@@ -11,6 +11,7 @@ It's implemented in **C++** using the **SFML** graphics library for a simple GUI
   - Dijkstra's Algorithm
   - A* Search (Chebyshev heuristic)
   - Jump Point Search (JPS)
+    
   **Performance Metrics**:
   - Path Length
   - Nodes Explored
