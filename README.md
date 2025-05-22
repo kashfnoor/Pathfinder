@@ -5,7 +5,8 @@ This project visualizes various pathfinding algorithms on a randomly generated m
 It's implemented in **C++** using the **SFML** graphics library for a simple GUI-based interface.
 **Features**
  **Maze Generation** using randomized DFS with an interactive main menu with SFML GUI.
- **Pathfinding Algorithms**:
+
+ **Pathfinding Algorithms Used**:
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
   - Dijkstra's Algorithm
